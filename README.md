@@ -20,8 +20,8 @@ prompt engineering works and how AI can be used as a helpful learning tool.
 
 ## 📂 Project Structure
 
-AI-Prompt-Collection/
-│
+AI-Prompt-Collection/  
+|  
 ├──> Study_Prompts.md  
 ├──> Coding_Prompts.md  
 ├──> Resume_Prompts.md  
